@@ -25,7 +25,7 @@ Here are some benchmarks for the project, along with an idea of when you should 
 	
   + Begin implementing your front end components using React and Redux. Decide what data structure your store's state will have.   **You must get instructor approval at this point before continuing**
   + Build with dummy-data first before implementing your API. Get your different actions and reducers set up. 
-  + As your adding components, add some basic bootstrap stylings. 
+  + As your adding components, add some basic bootstrap stylings. Don't spend too much time making things perfect, just get your components appearing where you want them. Bootstraps `col` classes are extremely helpful for this. 
 
 ### Day 3
  + Finish your MVP version by today. You should have something that works. We'll do a check-in demo for the class as a benchmark and make sure we've deployed to Heroku.
